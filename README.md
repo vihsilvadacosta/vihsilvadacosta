@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vihsilvadacosta
-- 👀 I’m interested in front-end software engineering and technoly in general
+- 👀 I’m interested in front-end software engineering and technology in general
 - 🌱 I’m currently studying programming logic 
 - 📫 You can reach me through my linkedin account: https://www.linkedin.com/vitóriasilvadacosta
 
