@@ -1,8 +1,8 @@
 ## Hello there! I'm Vitória
 
-👀 I’m interested in front-end software engineering and technology in general
-🌱 I’m currently studying web development
-📫 You can reach me through my linkedin account: https://www.linkedin.com/vitoriasilvadacosta
+🔭 Currently studying fullstack development
+🌱 I've learned the fundamentals of HTML, CSS & JS
+😄 You can reach me through Linkedin: https://www.linkedin.com/in/vitoriasilvadacosta/
 
   <div>
     <a href="https//github.com/vihsilvadacosta">
