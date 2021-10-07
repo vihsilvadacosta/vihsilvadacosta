@@ -1,7 +1,7 @@
 ## Hello there! I'm Vitória
 
-- 🔭 Studying backend development
-- 🌱 I've already learned the fundamentals of HTML, CSS & JS
+- 🔭 Studying fullstack development
+- 🌱 I've already learned the fundamentals of HTML & CSS
 - 😄 You can reach me on Linkedin: https://www.linkedin.com/in/vitoriasilvadacosta/
 
 
