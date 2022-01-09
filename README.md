@@ -1,6 +1,6 @@
 ## Hello there! I'm Vitória
 
-- 🔭 Studying fullstack development
+- 🔭 Studying a bit of programming and quality assurance
 - 🌱 I've already learned the fundamentals of HTML, CSS & JS
 - 😄 You can reach me on Linkedin: https://www.linkedin.com/in/vitoriasilvadacosta/
 
