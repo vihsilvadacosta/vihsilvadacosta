@@ -1,7 +1,7 @@
 ## Hello there! I'm Vitória
 
 - 👩‍💻 A Computer Science Student
-- 🌱 QA Intern at ACCT Global
+- 🌱 QA Analyst at ACCT Global
 - 😄 You can reach me on Linkedin: https://www.linkedin.com/in/vitoriasilvadacosta/
 
 
