@@ -1,7 +1,7 @@
 ## Hello there! I'm Vitória
 
 - 👩‍💻 A Computer Science Student
-- 🌱 QA Analyst at Quality Digital
+- 🌱 QA Analyst at Blip
 - 😄 You can reach me on Linkedin: https://www.linkedin.com/in/vitoriasilvadacosta/
 
 
