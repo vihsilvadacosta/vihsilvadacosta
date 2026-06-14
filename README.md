@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vitória Silva Da Costa
+# 👋 Olá! Eu sou a Vitória Silva Da Costa
 🎓 Formada em Ciência da Computação  
 🧪 Analista de Qualidade de Software  
 
